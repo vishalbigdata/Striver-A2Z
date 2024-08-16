@@ -6,14 +6,10 @@ class Solution:
     def largest(self, n : int, arr : List[int]) -> int:
         # code here
       
+        arr.sort()
+        return arr[-1]
 
-
-        max = arr[0]
-        for i in range(0, n):
-            if (max < arr[i]):
-                max = arr[i]
-        return max
-
+       
 
 
 
