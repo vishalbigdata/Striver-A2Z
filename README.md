@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/vishalbigdata/Striver-A2Z/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1161-project-employees-i](https://github.com/vishalbigdata/Striver-A2Z/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/vishalbigdata/Striver-A2Z/tree/master/1179-game-play-analysis-i) |
+| [1908-recyclable-and-low-fat-products](https://github.com/vishalbigdata/Striver-A2Z/tree/master/1908-recyclable-and-low-fat-products) |
 ## Dynamic Programming
 |  |
 | ------- |
