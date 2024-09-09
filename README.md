@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
@@ -62,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/vishalbigdata/Striver-A2Z/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
