@@ -5,3 +5,6 @@ left join Transactions t
 on v.visit_id = t.visit_id 
 where t.transaction_id IS null 
 group by v.customer_id
+
+
+
