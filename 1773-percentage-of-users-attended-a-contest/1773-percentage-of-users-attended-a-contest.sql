@@ -4,4 +4,4 @@ select r.contest_id
 from Users u 
 cross join Register r 
 group by r.contest_id
-order by percentage desc ,contest_id
+order by percentage desc,contest_id
