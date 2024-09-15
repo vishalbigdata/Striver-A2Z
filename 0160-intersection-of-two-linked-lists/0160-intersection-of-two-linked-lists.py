@@ -9,7 +9,7 @@ class Solution:
         fp = headA
         sp = headB
 
-        # 
+        # mark both the poiinter to same level 
         if m <= n :
             for i in range(n-m):
                 sp = sp.next
@@ -17,6 +17,8 @@ class Solution:
             for i in range(m-n):
                 fp = fp.next
 
+        # traverse the linkedlist and compare  --> if match : return any pointer value , fp or sp
+        
         while fp != None or sp != None:
             if fp == sp:
                 return fp or sp
