@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
