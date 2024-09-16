@@ -9,13 +9,9 @@ class Solution:
 
         head = ListNode()
         tmp1, tmp2, tmp3 = list1, list2, head
-
         if tmp1 is None or tmp2 is None:
-            if tmp1 is None:
-                head.next = tmp2
-            
-            else:
-                head.next=tmp1
+            if tmp1 is None: head.next = tmp2
+            else: head.next=tmp1
         else:
             while(tmp1 is not None and tmp2 is not None):
                 if (tmp1.val <= tmp2.val):
@@ -25,15 +21,11 @@ class Solution:
                     tmp3.next = tmp2
                     tmp2 = tmp2.next
                 tmp3 = tmp3.next
-
                 if tmp1 is not None:
                     tmp3.next = tmp1
                 if tmp2 is not None:
                     tmp3.next = tmp2
         
-        
-            
-
         head = head.next
         return head
 
