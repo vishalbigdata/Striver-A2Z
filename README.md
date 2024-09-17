@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0160-intersection-of-two-linked-lists) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
