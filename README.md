@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
@@ -125,5 +127,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0920-uncommon-words-from-two-sentences) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
