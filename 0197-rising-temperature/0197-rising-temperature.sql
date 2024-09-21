@@ -8,6 +8,8 @@
 -- on DATEDIFF(y.recordDate, t.recordDate) = 1 
 --     and y.temperature > t.temperature
 
+-- SUBDATE , we can use also
+
 
 select w1.id  as Id
 from weather w1
