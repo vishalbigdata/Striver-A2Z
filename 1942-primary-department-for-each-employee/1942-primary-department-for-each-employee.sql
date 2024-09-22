@@ -2,7 +2,7 @@
 
 
 
-select distinct employee_id, department_id
+select employee_id, department_id
 from Employee
 where employee_id in (
     Select employee_id
