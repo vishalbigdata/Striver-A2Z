@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3541-report-spam-message](https://github.com/vishalbigdata/Striver-A2Z/tree/master/3541-report-spam-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0920-uncommon-words-from-two-sentences) |
+| [3541-report-spam-message](https://github.com/vishalbigdata/Striver-A2Z/tree/master/3541-report-spam-message) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0920-uncommon-words-from-two-sentences) |
+| [3541-report-spam-message](https://github.com/vishalbigdata/Striver-A2Z/tree/master/3541-report-spam-message) |
 ## Greedy
 |  |
 | ------- |
