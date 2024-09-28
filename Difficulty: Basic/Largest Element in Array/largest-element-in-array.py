@@ -4,15 +4,13 @@ from typing import List
 
 class Solution:
     def largest(self, arr : List[int]) -> int:
-        # code here
-        max =  arr[0]
         
-        for i in (arr):
-            if i > max:
-                max = i
-            
+        # make first element of array as max
+        max = arr[0]
+        
+        for i in arr:
+            if i > max : max = i
         return max
-        
 
 
 
