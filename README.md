@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
+| [1019-squares-of-a-sorted-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/1019-squares-of-a-sorted-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3541-report-spam-message](https://github.com/vishalbigdata/Striver-A2Z/tree/master/3541-report-spam-message) |
 ## Two Pointers
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vishalbigdata/Striver-A2Z/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
+| [1019-squares-of-a-sorted-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/1019-squares-of-a-sorted-array) |
 ## Database
 |  |
 | ------- |
