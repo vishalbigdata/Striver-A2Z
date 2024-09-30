@@ -3,10 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+
+        #  not good approach
         # for i in range(len(nums)):
         #     if nums[i] == 0:
         #         nums.append(nums.pop(i))
         
+
+
+
+        #  best and optimal
         j = -1
 
         # set j pointer to first zero
