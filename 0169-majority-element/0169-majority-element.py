@@ -1,17 +1,65 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-
-
+        # Majority Moore Voting algorithm
         n = len(nums)
-        from collections import Counter
-
-        counter = Counter(nums)
-
-        for num , count in counter.items():
-            if count > (n // 2) :
-                return num
+        count = 0
+        maj_ele = None
+        for i in range(n):
+            if count == 0:
+                count = 1
+                maj_ele = nums[i]
+            elif maj_ele == nums[i]:
+                count +=1
+            else:
+                count -= 1
         
-        return -1
+
+        # to check
+        cnt1 = 0
+        for i in range(n):
+            if nums[i] == maj_ele:
+                cnt1+=1
+        
+        if cnt1 > (n//2 ) :
+            return maj_ele
+        else:
+            return -1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # n = len(nums)
+        # from collections import Counter
+
+        # counter = Counter(nums)
+
+        # for num , count in counter.items():
+        #     if count > (n // 2) :
+        #         return num
+        
+        # return -1
 
         # Bruteforce approach : 
         # n = len(nums)
@@ -40,7 +88,9 @@ class Solution:
         #         else:
         #             dict[value] = 1            
                 
-            
+
+
+        
 
 
         
