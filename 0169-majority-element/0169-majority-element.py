@@ -1,25 +1,37 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        
+
+        # Bruteforce approach : 
+        # n = len(nums)
+        # for i in range(n):
+        #     count = 0
+        #     for j in range(n):
+        #         if nums[j] == nums[i]:
+        #             count = count + 1
+        #     if count > (n//2) :
+        #         return nums[i]        
+        # return -1
+
+        # Better  Approach
+        # using Hashing 
 
         n = len(nums)
-        cnt = 0
-        el = None
+        dict = {}
+        if n < 2 :
+            return nums[0]
+        else:
 
-        for i in range(n):
-            if cnt == 0:
-                cnt += 1
-                el = nums[i]
-            elif el == nums[i]:
-                cnt = cnt +1
-            else:
-                cnt = cnt - 1
-
-        cnt1 = 0
-        for i in range(n):
-            if nums[i] == el:
-                cnt1 = cnt1 + 1
+            for value in nums:
+                if value in dict.keys():
+                    dict[value] += 1
+                    if dict[value] > (n // 2) :
+                        return value
+                else:
+                    dict[value] = 1            
+                
             
-        if cnt1 > (n//2):
-            return el
-        return -1
+
+
+
+
+
