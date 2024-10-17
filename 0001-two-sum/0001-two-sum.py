@@ -1,6 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 
+        for i in range(len(nums)):
+            remaining = target - nums[i]
+            for  j in range(i+1, len(nums)):
+                if remaining == nums[j]:
+                    return [i, j]
+
         # using to pointer approach
         
         # left = 0
@@ -20,14 +26,14 @@ class Solution:
 
         # using Hashing 
 
-        viseted = {}
-        for i, num in enumerate(nums):
-            complement = target - num
-            if complement in viseted:
-                return [viseted[complement] , i]
-            viseted[num] = i
+        # viseted = {}
+        # for i, num in enumerate(nums):
+        #     complement = target - num
+        #     if complement in viseted:
+        #         return [viseted[complement] , i]
+        #     viseted[num] = i
         
-        return []
+        # return []
 
 
         
@@ -40,4 +46,7 @@ class Solution:
         #         return [numMap[complement], i]
         #     numMap[num] = i
         # return []
+        
+
+
         
