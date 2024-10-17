@@ -1,14 +1,24 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 
-        for i in range(len(nums)):
-            remaining = target - nums[i]
-            for  j in range(i+1, len(nums)):
-                if remaining == nums[j]:
-                    return [i, j]
+        # 1.  Brteefrce n^2
 
-        # using to pointer approach
-        
+        # for i in range(len(nums)):
+        #     remaining = target - nums[i]
+        #     for  j in range(i+1, len(nums)):
+        #         if remaining == nums[j]:
+        #             return [i, j]
+        # return [-1,-1]
+
+                        # or
+        # for i in range(len(nums)):
+        #     remain = target - nums[i]
+        #     if remain in nums[i+1:]:
+        #         return [i,nums.index(remain, i+1)]
+
+
+        # 2.using to pointer approach
+
         # left = 0
         # right = len(nums) -1
 
@@ -21,32 +31,19 @@ class Solution:
         #         right = right - 1
             
         # it will not work for a case
-        #         nums = [3,2,4]
+                # nums = [3,2,4]
 
+        # Oprimal Approahc :  using Hashing 
 
-        # using Hashing 
+        hashMap = {}
 
-        # viseted = {}
-        # for i, num in enumerate(nums):
-        #     complement = target - num
-        #     if complement in viseted:
-        #         return [viseted[complement] , i]
-        #     viseted[num] = i
-        
-        # return []
+        for index, value in enumerate(nums):
+            reamin  = target - value
+            index_of_reamin = hashMap.get(reamin,-1)
+            if index_of_reamin != -1 :
+                return [index_of_reamin , index]
+            hashMap[value] = index
 
-
-        
-
-
-        # numMap = {}
-        # for i, num in enumerate(nums):
-        #     complement = target - num
-        #     if complement in numMap:
-        #         return [numMap[complement], i]
-        #     numMap[num] = i
-        # return []
-        
 
 
         
