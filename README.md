@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/1019-squares-of-a-sorted-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0219-contains-duplicate-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3541-report-spam-message](https://github.com/vishalbigdata/Striver-A2Z/tree/master/3541-report-spam-message) |
 ## Sorting
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
