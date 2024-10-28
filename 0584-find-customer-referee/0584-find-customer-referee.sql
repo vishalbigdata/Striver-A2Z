@@ -1,9 +1,8 @@
-# Write your MySQL query statement below
--- select name
--- from Customer
--- where referee_id <> 2 or referee_id is NULL;
+/* Write your T-SQL query statement below */
 
-select name
-from Customer
--- where ifnull(referee_id , -1) <> 2
+
+
+
+select name 
+from customer
 where coalesce(referee_id,-1) <> 2
