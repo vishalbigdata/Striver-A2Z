@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0053-maximum-subarray) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0027-remove-element) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/vishalbigdata/Striver-A2Z/tree/master/0179-largest-number) |
 ## Stack
 |  |
