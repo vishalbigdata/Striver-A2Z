@@ -35,15 +35,22 @@ class Solution:
 
         # Oprimal Approahc :  using Hashing 
 
-        hashMap = {}
+        # hashMap = {}
 
-        for index, value in enumerate(nums):
-            reamin  = target - value
-            index_of_reamin = hashMap.get(reamin,-1)
-            if index_of_reamin != -1 :
-                return [index_of_reamin , index]
-            hashMap[value] = index
+        # for index, value in enumerate(nums):
+        #     reamin  = target - value
+        #     index_of_reamin = hashMap.get(reamin,-1)
+        #     if index_of_reamin != -1 :
+        #         return [index_of_reamin , index]
+        #     hashMap[value] = index
 
 
+        hashset = {}   # val : index
 
-        
+        for i,n in enumerate(nums):
+            diff = target - n
+            if diff in hashset :
+                return [hashset[diff], i ]
+            hashset[n] = i
+
+        return       
